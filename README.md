@@ -1,7 +1,7 @@
 # FACTOR
 This tool has supported date, time and Factor. 
 
-#Install in termux
+# Install in termux
 * `pkg update `
 * `pkg upgrade `
 * `pkg install git`
