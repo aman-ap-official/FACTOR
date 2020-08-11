@@ -9,7 +9,7 @@ This tool has supported date, time and Factor.
 * `git clone https://github.com/HACKERAP/FACTOR.git`
 * `cd FACTOR`
 * `ls`
-* `chmode +x script.sh`
+* `chmod +x script.sh`
 * `ls`
 * `./script.sh` if not work use
 * `bash script.sh`
